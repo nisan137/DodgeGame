@@ -4,4 +4,5 @@ How to play the game:
 You are 'Simba' and you don't want to get killed.
 <br>
 Try to avoid 'Scar' by moving up and down and side to side.
+<br>
 You can choose the level and the number of enemies.
